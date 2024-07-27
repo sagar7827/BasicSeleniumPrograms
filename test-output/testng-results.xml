@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-17T12:20:52 IST" name="Default suite" finished-at="2024-07-17T12:21:17 IST" duration-ms="24957">
+    <groups>
+    </groups>
+    <test started-at="2024-07-17T12:20:52 IST" name="Default test" finished-at="2024-07-17T12:21:17 IST" duration-ms="24957">
+      <class name="com.pageobjectmodel.demo.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.pageobjectmodel.demo.LoginTest@4f18837a]" started-at="2024-07-17T12:20:52 IST" name="setup" finished-at="2024-07-17T12:21:12 IST" duration-ms="19144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.pageobjectmodel.demo.LoginTest@4f18837a]" started-at="2024-07-17T12:21:12 IST" name="loginTest" finished-at="2024-07-17T12:21:16 IST" duration-ms="3938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pageobjectmodel.demo.LoginTest@4f18837a]" started-at="2024-07-17T12:21:16 IST" name="tearDown" finished-at="2024-07-17T12:21:17 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pageobjectmodel.demo.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
